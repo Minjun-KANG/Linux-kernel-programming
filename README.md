@@ -1,6 +1,15 @@
 # Linux-kernel-programming
 This is the linux-kernel-programming. I learned in 2020. ex) file ctrl, ls, shell
 
+Related to Linux kernel programming, system calls and API types such as ls, mkdir, and rm are implemented.
+
+Some files contain reports.
+In the report, the process of designing the data structure,
+Algorithm design process,
+Make file,
+Includes the function design process.
+
+* The file is written in Korean.
 
 contents
 
