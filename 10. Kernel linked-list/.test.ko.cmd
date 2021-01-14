@@ -1,0 +1,1 @@
+cmd_/home/kang/Desktop/Source/Operating_System/1018/test.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/kang/Desktop/Source/Operating_System/1018/test.ko /home/kang/Desktop/Source/Operating_System/1018/test.o /home/kang/Desktop/Source/Operating_System/1018/test.mod.o
