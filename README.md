@@ -36,3 +36,12 @@ contents
 
 8. get student ID
  - get student ID
+
+9. Shared Memeory
+ - not Message passing
+
+10. Linked-list
+ - On Ubuntu Kernel 12.04
+
+11. CPU Timer
+ - On Ubuntu Kernel 12.04
